@@ -25,6 +25,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="D:/MyWebsite/portfolio.github.io" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="SvnConfiguration">
@@ -39,7 +45,7 @@
       <updated>1620103955869</updated>
       <workItem from="1620103957326" duration="11000" />
       <workItem from="1620104024612" duration="539000" />
-      <workItem from="1620104580924" duration="1215000" />
+      <workItem from="1620104580924" duration="2070000" />
     </task>
     <servers />
   </component>
